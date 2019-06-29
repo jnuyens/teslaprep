@@ -1,17 +1,7 @@
 # Tesla Prep Model 3 delivery
 
 A comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
-
-I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This document is adapted from Will Fealey's UK-based [guide](https://fealey.co.uk/tesla/things-to-check-when-you-pick-up-your-tesla/577) on the Model S. It's been Europeanised and edited for the Model 3, with many new links and additional resources since Will's was originally written. It has been adapted by Jasper Nuyens, Tesla Hacker and maintainer of the Model X delivery Checklist for years.
-
-## Start
-Congratulations! You've configured a Model 3. Now comes the hardest part: waiting.
-
-You'll receive an email from Tesla saying something to the effect of "We'll be in touch!" Do not get financing quotes at this time. They expire after 30-days, and you will need to re-run credit checks.
-
-
-### First contact
-You will eventually be contacted by a Tesla Delivery Advisor/Scheduler who will confirm your delivery date. Make sure your Tesla account reflects this date. When you get a VIN number, your vehicle has been assigned to you.
+This document is adapted from Will Fealey's UK-based [guide](https://fealey.co.uk/tesla/things-to-check-when-you-pick-up-your-tesla/577) on the Model S. Edited by Mykeln and further adapted by Jasper Nuyens, Tesla Hacker and maintainer of the Model X delivery Checklist for years.
 
 ## On delivery day, prior to arrival:
 1.  Have the Tesla app installed on your smartphone prior to arrival for delivery.
@@ -19,11 +9,11 @@ You will eventually be contacted by a Tesla Delivery Advisor/Scheduler who will 
 3.  If your car will be registered to more than one person, each person on the registration needs to be at the delivery appointment to sign final documents.
 4.  Bring written or digital proof of your down payment having been made and the final payment details or financing details.  If you are financing your car, make sure your loan has been funded before you arrive to take delivery and that you have some kind of proof you can provide to Tesla should they ask about it.
 5.  Bring a printed insurance card or other proof of insurance that shows your Model 3 is insured.
-6.  Since the delivery area where you will inspect your Model 3 may be dark, bring a flashlight.
-7. Prepare a USB stick with some music on to test the sound system.
+6.  Since the delivery area where you will inspect your Model 3 may be dark, bring a flashlight or use your phone flashlight.
+7.  Prepare a USB stick with some music on to test the sound system.
 
 ## Delivery day in-person vehicle inspection:
-*NOTE: Do not sign final documents, or wire funds, until a full vehicle inspection is completed.
+*NOTE: Do not sign final documents, or wire funds, until a full vehicle inspection is completed (at least the body panel part).
 
 ### SECTION A - Verify pre-delivery vehicle records
 1.  Check for correct name and address on your paperwork.
