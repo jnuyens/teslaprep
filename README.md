@@ -55,7 +55,7 @@ This document is adapted from Will Fealey's UK-based [guide](https://fealey.co.u
 7.  Check rear seats for proper fold-down operation.
 
 ### Interior Rear
-1.  Console rear compartment light.
+1.  Console rear compartment light and overhead light.
 
 ### Frunk
 1.  Frunk light.
